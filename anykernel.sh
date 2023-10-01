@@ -4,13 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=VantomKernel
+kernel.string=AndroidHQ254
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=toco
+device.name1=a32
 device.name2=
 device.name3=
 device.name4=
